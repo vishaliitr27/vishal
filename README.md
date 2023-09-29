@@ -5,7 +5,7 @@ using GitHub we create new project </h1>
 <h2>some people use git and some poeple use github
 </h2>
 <Br>
-<h2>kjlkd kjldf kjkdkkm kldkldmpkdf mlkk fkpsdf kpdsnfnok;smd fm</h2>
+<h3>this is new website we find images </h3>
 <a href="https://www.google.com/">open the goolge</a><Br>
 <Br>
  <img src="https://picsum.photos/200" alt="image does not find"> 
