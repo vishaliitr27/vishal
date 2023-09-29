@@ -17,7 +17,6 @@ Using GitHub we create new project </h1>
 <img src="https://source.unsplash.com/random/200x200?sig=3" />
 can add new line without using HTML 
 To insert an image into an HTML document, you can use the `<img>` (image) element. Here's the basic HTML code to insert an image:
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,10 +30,7 @@ To insert an image into an HTML document, you can use the `<img>` (image) elemen
 
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="https://www.youtube.com/">Go to youtube</a></li>
         </ul>
     </nav>
 
