@@ -1,11 +1,11 @@
 # vishal@iitr27 GitHub new project
 <Br>
-<h1>this is my first Repository.
-using GitHub we create new project </h1>
-<h2>some people use git and some poeple use github
+<h1>This is my first Repository.
+Using GitHub we create new project </h1>
+<h2>Some people use git and some poeple use github
 </h2>
 <Br>
-<h3>this is new website we find images </h3>
+<h3>This is new website we find images </h3>
 <a href="https://www.google.com/">open the goolge</a><Br>
 <Br>
  <img src="https://picsum.photos/200" alt="image does not find"> 
@@ -15,3 +15,4 @@ using GitHub we create new project </h1>
 <img src="https://source.unsplash.com/random/200x200?sig=2" />
 <p>this is a peaceful morning where sky and earth like to be meet it is called horizontal in hindi kshitiz </p>
 <img src="https://source.unsplash.com/random/200x200?sig=3" />
+can add new line without using HTML 
